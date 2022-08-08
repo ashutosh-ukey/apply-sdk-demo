@@ -1,0 +1,3 @@
+[submodule "circle-nodejs-sdk"]
+	path = circle-nodejs-sdk
+	url = https://github.com/circlefin/circle-nodejs-sdk.git
